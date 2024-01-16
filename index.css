@@ -1,0 +1,13 @@
+header {
+    background-color: #333;
+    text-align: center;
+}
+body h1,h2 {
+    text-align: center;
+    background-color: #333;
+    
+}
+body {
+    background-color: #333;
+    color: #fff;
+}
